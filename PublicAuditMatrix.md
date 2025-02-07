@@ -596,7 +596,7 @@ This is a repository of our public audit reports. Earliest reports use our old n
    </td>
   </tr>
   <tr>
-   <td>01/2025
+   <td>02/2025
    </td>
    <td>Axelar Foundation
    </td>
