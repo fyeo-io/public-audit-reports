@@ -620,7 +620,7 @@ This is a repository of our public audit reports. Earliest reports use our old n
    </td>
    <td>CosmWasm/Rust/Typescript
    </td>
-   <td>Click here</a>
+   <td>Coming Soon</a>
    </td>
   </tr>
 </table>
