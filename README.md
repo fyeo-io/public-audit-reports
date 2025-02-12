@@ -1,4 +1,1 @@
-# public-audit-reports
-
-This is a repository of our public audit reports. Earliest reports use our old name "BTblock," newer reports say "FYEO"
-
+FYEO public audit repo Matrix: [https://github.com/fyeo-io/public-audit-reports/](https://github.com/fyeo-io/public-audit-reports/blob/main/PublicAuditMatrix.md)
