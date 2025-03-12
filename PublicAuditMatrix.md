@@ -1,4 +1,4 @@
-FYEO Public Code Audits
+ FYEO Public Code Audits
 
 
 <table>
@@ -701,7 +701,7 @@ FYEO Public Code Audits
    </td>
    <td>CosmWasm/Rust/Typescript
    </td>
-   <td>Coming soon
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20Stacks%20v1.0.pdf">Click here</a>
    </td>
    <td>
    </td>
@@ -722,5 +722,36 @@ FYEO Public Code Audits
    <td><a href="https://www.fyeo.io/post/fyeo-secure-code-assessment-flare-songbird">Read Post</a>
    </td>
   </tr>
+  <tr>
+   <td>03/2025
+   </td>
+   <td>Bio
+   </td>
+   <td>Bio Launchpad
+   </td>
+   <td>Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Bio/Bio%20-%20Security%20Code%20Review%20of%20Bio%20Launchpad%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>03/2025
+   </td>
+   <td>Spree
+   </td>
+   <td>Spree Points
+   </td>
+   <td>Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Spree/Spree%20-%20Security%20Code%20Review%20of%20Spree%20Points%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
-
