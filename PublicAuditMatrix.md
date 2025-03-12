@@ -1,4 +1,4 @@
- FYEO Public Code Audits
+FYEO Public Code Audits
 
 
 <table>
@@ -701,7 +701,7 @@
    </td>
    <td>CosmWasm/Rust/Typescript
    </td>
-   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20-%20Security%20Code%20Review%20of%20Axelar%20Stacks%20v1.0.pdf">Click here</a>
+   <td>Coming soon
    </td>
    <td>
    </td>
@@ -717,7 +717,7 @@
    </td>
    <td>Go
    </td>
-   <td>Click here
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Flare/Flare%20diff%20review%202025-02.pdf">Click here</a>
    </td>
    <td><a href="https://www.fyeo.io/post/fyeo-secure-code-assessment-flare-songbird">Read Post</a>
    </td>
