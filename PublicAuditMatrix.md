@@ -770,5 +770,21 @@ FYEO Public Code Audits
    <td>
    </td>
   </tr>
+  <tr>
+   <td>03/2025
+   </td>
+   <td>Axelar Foundation
+   </td>
+   <td> Solana Integration
+   </td>
+   <td>Axelar & Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Axelar/Axelar%20Foundation%20-%20Security%20Code%20Review%20of%20Axelar%20-%20Solana%20Integration%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
 
