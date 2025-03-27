@@ -786,5 +786,21 @@ FYEO Public Code Audits
    <td>
    </td>
   </tr>
+  <tr>
+   <td>03/2025
+   </td>
+   <td>Levana
+   </td>
+   <td>Ruji Perps
+   </td>
+   <td>Cosmos
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Levana/Levana%20-%20Security%20Code%20Review%20of%20Ruji%20Perps%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
 
