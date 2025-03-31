@@ -1,4 +1,4 @@
-FYEO Public Code Audits
+ FYEO Public Code Audits
 
 
 <table>
@@ -816,6 +816,22 @@ FYEO Public Code Audits
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Aureus%20OX/Aureus%20Ox%20Ongoing%202025.03.25.docx.pdf">Click here</a>
    </td>
    <td><a href="https://www.fyeo.io/post/secure-code-assessment-of-aureus-ox-oxen-flow-application">Read Post</a>
+   </td>
+  </tr>
+  <tr>
+   <td>03/2025
+   </td>
+   <td>Banger
+   </td>
+   <td>Banger
+   </td>
+   <td>Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Banger/Banger%20Ongoing%202025.03.25.pdf">Click here</a>
+   </td>
+   <td>
    </td>
   </tr>
 </table>
