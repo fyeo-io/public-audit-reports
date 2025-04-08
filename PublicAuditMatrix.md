@@ -834,5 +834,21 @@
    <td>
    </td>
   </tr>
+  <tr>
+   <td>04/2025
+   </td>
+   <td>Ripple
+   </td>
+   <td>Delegate Authority
+   </td>
+   <td>Ripple
+   </td>
+   <td>C++
+   </td>
+   <td>Coming soon</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
 
