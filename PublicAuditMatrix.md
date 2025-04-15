@@ -1,4 +1,4 @@
- FYEO Public Code Audits
+FYEO Public Code Audits
 
 
 <table>
@@ -845,7 +845,23 @@
    </td>
    <td>C++
    </td>
-   <td>Coming soon</a>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Ripple/Ripple%20-%20Security%20Code%20Review%20of%20XRPL%20Delegate%20Authority%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>04/2025
+   </td>
+   <td>Outcome
+   </td>
+   <td>Outcome Protocol
+   </td>
+   <td>AO
+   </td>
+   <td>Lua
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Outcome/Outcome%20-%20Security%20Code%20Review%20of%20the%20Outcome%20Protocol%20v1.0.pdf">Click here</a>
    </td>
    <td>
    </td>
