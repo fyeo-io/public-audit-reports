@@ -882,5 +882,21 @@ FYEO Public Code Audits
    <td>
    </td>
   </tr>
+  <tr>
+   <td>05/2025
+   </td>
+   <td>Ripple
+   </td>
+   <td>Permissioned DEX
+   </td>
+   <td>Ripple
+   </td>
+   <td>C++
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Ripple/Ripple%20-%20Security%20Code%20Review%20of%20XRPL%20Permissioned%20DEX%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
 
