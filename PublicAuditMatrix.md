@@ -898,5 +898,21 @@ FYEO Public Code Audits
    <td>
    </td>
   </tr>
+  <tr>
+   <td>05/2025
+   </td>
+   <td>Aureus OX
+   </td>
+   <td>Swap Router
+   </td>
+   <td>Wallet
+   </td>
+   <td>SWIFT
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Aureus%20OX/Aureus%20Ox%20-%20Security%20Code%20Review%20Aureus%20Ox%20Swap%20Router%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
 
