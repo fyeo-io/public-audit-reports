@@ -914,5 +914,21 @@ FYEO Public Code Audits
    <td>
    </td>
   </tr>
+  <tr>
+   <td>06/2025
+   </td>
+   <td>Flare
+   </td>
+   <td>Songbird
+   </td>
+   <td>Flare
+   </td>
+   <td>GO
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Flare/Flare%20Ongoing%20Coreth%20June%2010th.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
 
