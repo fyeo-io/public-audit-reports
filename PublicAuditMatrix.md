@@ -930,5 +930,37 @@ FYEO Public Code Audits
    <td>
    </td>
   </tr>
+  <tr>
+   <td>06/2025
+   </td>
+   <td>Endless
+   </td>
+   <td>Endless Bridge
+   </td>
+   <td>Endless
+   </td>
+   <td>Move, Solidity
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Endless/Endless%20Labs%20-%20Security%20Code%20Review%20Endless%20Bridge%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>06/2025
+   </td>
+   <td>Spree
+   </td>
+   <td>Spree EVM
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Solidity
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Spree/Spree%20-%20Security%20Code%20Review%20of%20Spree%20EVM%20v1.0%20(2).pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
 
