@@ -978,5 +978,23 @@ FYEO Public Code Audits
    <td>
    </td>
   </tr>
+  <tr>
+   <td>8/2025
+   </td>
+   <td>Bio
+   </td>
+   <td>Security Code Review of
+<p>
+Launchpad Agent EVM
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Solidity
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Bio/Bio%20-%20Security%20Code%20Review%20of%20Launchpad%20Agent%20EVM%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
 
