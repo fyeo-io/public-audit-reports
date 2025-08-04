@@ -983,9 +983,7 @@ FYEO Public Code Audits
    </td>
    <td>Bio
    </td>
-   <td>Security Code Review of
-<p>
-Launchpad Agent EVM
+   <td>Launchpad Agent EVM
    </td>
    <td>Ethereum
    </td>
