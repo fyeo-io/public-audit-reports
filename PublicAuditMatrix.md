@@ -962,5 +962,21 @@ FYEO Public Code Audits
    <td>
    </td>
   </tr>
+  <tr>
+   <td>7/2025
+   </td>
+   <td>Six Sigma Project
+   </td>
+   <td>Six Sigma Kolme
+   </td>
+   <td>Kolme
+   </td>
+   <td>Rust & Typescript
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Six%20Sigma/Six%20Sigma%20Project-%20Security%20Code%20Review%20Six%20Sigma%20Kolme%20v1.0%20report%20overview.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
 
