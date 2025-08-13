@@ -1,4 +1,4 @@
-FYEO Public Code Audits
+ FYEO Public Code Audits
 
 
 <table>
@@ -990,6 +990,22 @@ FYEO Public Code Audits
    <td>Solidity
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Bio/Bio%20-%20Security%20Code%20Review%20of%20Launchpad%20Agent%20EVM%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>8/2025
+   </td>
+   <td>Spree
+   </td>
+   <td>Spree Points
+   </td>
+   <td>Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Spree/Spree%20Ongoing%202025.08.11%20.pdf">Click here</a>
    </td>
    <td>
    </td>
