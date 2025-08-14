@@ -1017,11 +1017,11 @@ FYEO Public Code Audits
    </td>
    <td>PegaX
    </td>
-   <td>Solan
+   <td>Solana
    </td>
    <td>Rust
    </td>
-   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/PegaX/Security%20Code%20Review%20of%20PegaX%20v1.0.pdf">Click here</a>
+   <td>Coming soon
    </td>
    <td>
    </td>
