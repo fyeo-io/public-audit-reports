@@ -837,7 +837,7 @@ FYEO Public Code Audits
   <tr>
    <td>04/2025
    </td>
-   <td>XRPL
+   <td>Ripple
    </td>
    <td>Delegate Authority
    </td>
@@ -869,7 +869,7 @@ FYEO Public Code Audits
   <tr>
    <td>05/2025
    </td>
-   <td>XRPL
+   <td>Ripple
    </td>
    <td>Token Escrow
    </td>
@@ -885,7 +885,7 @@ FYEO Public Code Audits
   <tr>
    <td>05/2025
    </td>
-   <td>XRPL
+   <td>Ripple
    </td>
    <td>Permissioned DEX
    </td>
@@ -1021,7 +1021,7 @@ FYEO Public Code Audits
    </td>
    <td>Rust
    </td>
-   <td>Coming soon
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/PegaX/Security%20Code%20Review%20of%20PegaX%20v1.0.pdf">Click here</a>
    </td>
    <td>
    </td>
