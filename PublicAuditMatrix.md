@@ -233,7 +233,7 @@ FYEO Public Code Audits
    </td>
    <td>Hooks Amendment
    </td>
-   <td>XRP
+   <td>XRPL
    </td>
    <td>C++
    </td>
@@ -837,11 +837,11 @@ FYEO Public Code Audits
   <tr>
    <td>04/2025
    </td>
-   <td>Ripple
+   <td>XRPL
    </td>
    <td>Delegate Authority
    </td>
-   <td>Ripple
+   <td>XRPL
    </td>
    <td>C++
    </td>
@@ -869,11 +869,11 @@ FYEO Public Code Audits
   <tr>
    <td>05/2025
    </td>
-   <td>Ripple
+   <td>XRPL
    </td>
    <td>Token Escrow
    </td>
-   <td>Ripple
+   <td>XRPL
    </td>
    <td>C++
    </td>
@@ -885,11 +885,11 @@ FYEO Public Code Audits
   <tr>
    <td>05/2025
    </td>
-   <td>Ripple
+   <td>XRPL
    </td>
    <td>Permissioned DEX
    </td>
-   <td>Ripple
+   <td>XRPL
    </td>
    <td>C++
    </td>
