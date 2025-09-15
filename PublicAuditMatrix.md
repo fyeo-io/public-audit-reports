@@ -1,4 +1,4 @@
- FYEO Public Code Audits
+FYEO Public Code Audits
 
 
 <table>
@@ -233,7 +233,7 @@
    </td>
    <td>Hooks Amendment
    </td>
-   <td>XRP
+   <td>XRPL
    </td>
    <td>C++
    </td>
@@ -841,7 +841,7 @@
    </td>
    <td>Delegate Authority
    </td>
-   <td>Ripple
+   <td>XRPL
    </td>
    <td>C++
    </td>
@@ -873,7 +873,7 @@
    </td>
    <td>Token Escrow
    </td>
-   <td>Ripple
+   <td>XRPL
    </td>
    <td>C++
    </td>
@@ -889,7 +889,7 @@
    </td>
    <td>Permissioned DEX
    </td>
-   <td>Ripple
+   <td>XRPL
    </td>
    <td>C++
    </td>
@@ -1006,6 +1006,22 @@
    <td>Rust
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Spree/Spree%20Ongoing%202025.08.11%20.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>8/2025
+   </td>
+   <td>PegaX
+   </td>
+   <td>PegaX
+   </td>
+   <td>Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/PegaX/Security%20Code%20Review%20of%20PegaX%20v1.0.pdf">Click here</a>
    </td>
    <td>
    </td>
