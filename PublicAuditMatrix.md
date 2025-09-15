@@ -1,4 +1,4 @@
-FYEO Public Code Audits
+ FYEO Public Code Audits
 
 
 <table>
@@ -1022,6 +1022,22 @@ FYEO Public Code Audits
    <td>Rust
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/PegaX/Security%20Code%20Review%20of%20PegaX%20v1.0.pdf">Click here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>9/2025
+   </td>
+   <td>Solana
+   </td>
+   <td>Real-Time Dashboard
+   </td>
+   <td>Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Solana%20Foundation/Real-time%20Dashboard%20-%20Security%20Code%20Review_v1.0.pdf">Click Here</a>
    </td>
    <td>
    </td>
