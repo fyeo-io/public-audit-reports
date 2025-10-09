@@ -1058,5 +1058,38 @@ FYEO Public Code Audits
    <td>
    </td>
   </tr>
+  <tr>
+   <td>9/2025
+   </td>
+   <td>Flare
+   </td>
+   <td>Upgrade of Flare codebase to Avalanche v1.11.13
+   </td>
+   <td>Flare / 
+Songbird
+   </td>
+   <td>GO
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Flare/FLARE%20Ongoing%202025-09-29-25.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>9/2025
+   </td>
+   <td>Spree
+   </td>
+   <td>Spree Points EVM
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Solidity
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Spree/Spree%20-%20Ongoing%202025-09-30.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
 </table>
 
