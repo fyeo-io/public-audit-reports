@@ -1065,7 +1065,7 @@ FYEO Public Code Audits
    </td>
    <td>Upgrade of Flare codebase to Avalanche v1.11.13
    </td>
-   <td>Flare / 
+   <td>Flare / \
 Songbird
    </td>
    <td>GO
@@ -1087,6 +1087,22 @@ Songbird
    <td>Solidity
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Spree/Spree%20-%20Ongoing%202025-09-30.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>10/2025
+   </td>
+   <td>Aureus OX
+   </td>
+   <td>iOS ongoing Audit
+   </td>
+   <td>Wallet
+   </td>
+   <td>Swift
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Aureus%20OX/Aureus-ox%20-%20Aureus-ox-ios%20October%20Ongoing%20review%20v1.0.pdf">Click Here</a>
    </td>
    <td>
    </td>
