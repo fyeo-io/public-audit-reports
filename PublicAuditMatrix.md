@@ -1065,7 +1065,7 @@ FYEO Public Code Audits
    </td>
    <td>Upgrade of Flare codebase to Avalanche v1.11.13
    </td>
-   <td>Flare / \
+   <td>Flare / 
 Songbird
    </td>
    <td>GO
