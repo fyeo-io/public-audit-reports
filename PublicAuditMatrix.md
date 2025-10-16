@@ -1065,8 +1065,7 @@ FYEO Public Code Audits
    </td>
    <td>Upgrade of Flare codebase to Avalanche v1.11.13
    </td>
-   <td>Flare / 
-Songbird
+   <td>Flare/ Songbird
    </td>
    <td>GO
    </td>
@@ -1103,6 +1102,22 @@ Songbird
    <td>Swift
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Aureus%20OX/Aureus-ox%20-%20Aureus-ox-ios%20October%20Ongoing%20review%20v1.0.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>10/25
+   </td>
+   <td>Bio
+   </td>
+   <td>Launchpad Agent EVM
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Solidity
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Bio/Bio%20Ongoing%202025.10.07%20.pdf">Click Here</a>
    </td>
    <td>
    </td>
