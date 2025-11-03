@@ -1,4 +1,4 @@
-FYEO Public Code Audits
+ FYEO Public Code Audits
 
 
 <table>
@@ -1107,7 +1107,7 @@ FYEO Public Code Audits
    </td>
   </tr>
   <tr>
-   <td>10/25
+   <td>10/2025
    </td>
    <td>Bio
    </td>
@@ -1118,6 +1118,22 @@ FYEO Public Code Audits
    <td>Solidity
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Bio/Bio%20Ongoing%202025.10.07%20.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>10/2025
+   </td>
+   <td>Flare
+   </td>
+   <td>Upgrade of Flare codebase to Avalanche v1.12.0
+   </td>
+   <td>Flare/ Songbird
+   </td>
+   <td>GO
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Flare/FLARE%20Ongoing%202025-10-28.pdf">Click Here</a>
    </td>
    <td>
    </td>
