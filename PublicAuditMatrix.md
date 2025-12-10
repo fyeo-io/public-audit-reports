@@ -1,4 +1,27 @@
-FYEO Public Code Audits
+<!-----
+
+
+
+Conversion time: 4.721 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs™ to Markdown version 2.0β1
+* Wed Dec 10 2025 06:51:17 GMT-0800 (PST)
+* Source doc: FYEO Public Code Audits Matrix for MD
+* Tables are currently converted to HTML tables.
+----->
+
+
+ FYEO Public Code Audits
 
 
 <table>
@@ -1166,6 +1189,70 @@ FYEO Public Code Audits
    <td>Rust
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Solana%20Foundation/Exo%20Tech%20-%20Security%20Code%20Review%20of%20Solana%20Staker%20Vote%20Override_v1.0.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>11/2025
+   </td>
+   <td>Theoriq
+   </td>
+   <td>TQ Oracle
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Python
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Theoriq/Theoriq%20Pull%20127%20-%20Ongoing%202025.11.31.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>12/2025
+   </td>
+   <td>Theoriq
+   </td>
+   <td>TQ Oracle ongoing
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Python
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Theoriq/Theoriq%20Pull%20122%20-%20TQ%20Oracle%20Ongoing%20V1.0.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>12/2025
+   </td>
+   <td>Theoriq
+   </td>
+   <td>TQ Oracle ongoing
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Python
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Theoriq/Theoriq%20-%20Ongoing%202025.12.04.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>12/2025
+   </td>
+   <td>Theoriq
+   </td>
+   <td>Smart Contract
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Solidity
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Theoriq/Theoriq%20SC-%20Ongoing%202025.12.04_AB.pdf">Click Here</a>
    </td>
    <td>
    </td>
