@@ -1,4 +1,4 @@
- FYEO Public Code Audits
+FYEO Public Code Audits
 
 
 <table>
@@ -1134,6 +1134,38 @@
    <td>GO
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Flare/FLARE%20Ongoing%202025-10-28.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>11/2025
+   </td>
+   <td>Solana
+   </td>
+   <td>Staker Vote Override: Governance Workflow
+   </td>
+   <td>Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Solana%20Foundation/Turbine%20-%20Security%20Code%20Review%20of%20Solana%20Staker%20Vote%20Override%20v1.0.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>11/2025
+   </td>
+   <td>Solana
+   </td>
+   <td>Staker Vote Override: Voting system
+   </td>
+   <td>Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Solana%20Foundation/Exo%20Tech%20-%20Security%20Code%20Review%20of%20Solana%20Staker%20Vote%20Override_v1.0.pdf">Click Here</a>
    </td>
    <td>
    </td>
