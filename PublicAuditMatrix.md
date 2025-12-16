@@ -1,27 +1,4 @@
-<!-----
-
-
-
-Conversion time: 4.721 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs™ to Markdown version 2.0β1
-* Wed Dec 10 2025 06:51:17 GMT-0800 (PST)
-* Source doc: FYEO Public Code Audits Matrix for MD
-* Tables are currently converted to HTML tables.
------>
-
-
- FYEO Public Code Audits
+FYEO Public Code Audits
 
 
 <table>
@@ -1253,6 +1230,38 @@ Conversion notes:
    <td>Solidity
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Theoriq/Theoriq%20SC-%20Ongoing%202025.12.04_AB.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>12/2025
+   </td>
+   <td>Solana
+   </td>
+   <td>Gov Contract Fuzz Testing
+   </td>
+   <td>Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Solana%20Foundation/Solana%20Foundation%20-%20Gov%20contract%20fuzzing%20v1.0.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>12/2025
+   </td>
+   <td>Solana
+   </td>
+   <td>Staker Vote Override: Governance Workflow
+   </td>
+   <td>Solana
+   </td>
+   <td>Rust
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Solana%20Foundation/Turbine%20-%20Ongoing%202025.12.04_v2.1.0.pdf">Click Here</a>
    </td>
    <td>
    </td>
