@@ -1,4 +1,4 @@
-FYEO Public Code Audits
+ FYEO Public Code Audits
 
 
 <table>
@@ -1262,6 +1262,22 @@ FYEO Public Code Audits
    <td>Rust
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2025/Solana%20Foundation/Turbine%20-%20Ongoing%202025.12.04_v2.1.0.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>01/2026
+   </td>
+   <td>Theoriq
+   </td>
+   <td>TQ Oracle Ongoing
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Python
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/Theoriq/Theoriq%20-%20Ongoing%202026.01.22_final.pdf">Click Here</a>
    </td>
    <td>
    </td>
