@@ -1,3 +1,4 @@
+
  FYEO Public Code Audits
 
 
@@ -1278,6 +1279,54 @@
    <td>Python
    </td>
    <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/Theoriq/Theoriq%20-%20Ongoing%202026.01.22_final.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>01/2026
+   </td>
+   <td>Natgold
+   </td>
+   <td>Minting
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Solidity
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/NatGold/Natgold%20-%20Security%20Code%20Review%20of%20Natgold%20v1.0.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>01/2026
+   </td>
+   <td>Natgold
+   </td>
+   <td>Minting Frontend
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Typescript
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/NatGold/Natgold%20-%20Security%20Code%20Review%20of%20the%20Natgold%20Frontend%20v1.0.pdf">Click Here</a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>02/2026
+   </td>
+   <td>Natgold
+   </td>
+   <td>Minting Contract
+   </td>
+   <td>Ethereum
+   </td>
+   <td>Solidity
+   </td>
+   <td><a href="https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/NatGold/Natgold%20-%20Security%20Code%20Review%20of%20Natgold%20Contract%20v1.0.pdf">Click Here</a>
    </td>
    <td>
    </td>
