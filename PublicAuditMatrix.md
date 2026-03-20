@@ -87,3 +87,4 @@
 | 02/2026 | Natgold | Presale Backend | Ethereum | Rust | [Audit Report](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/NatGold/Natgold%20-%20Security%20Code%20Review%20of%20the%20Natgold%20Presale_Backend_v1.0.pdf) |  |
 | 03/2026 | Flare | V1.13.0 Upgrade | Flare | GO | [Audit Report](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/Flare/FLARE%20Ongoing%202026.02.23.pdf) |  |
 | 3/2026 | Theoriq | TQ Oracle Ongoing | Ethereum | Python | [Audit Report](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/Theoriq/Theoriq%20-%20Ongoing%202026-03-08_final.pdf) |  |
+| 3/2026 | Spree | Spree Ongoing | Solana | Rust | [Audit Report](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/Spree/Spree%20-%20Ongoing%202026-03-10.pdf) |  |
