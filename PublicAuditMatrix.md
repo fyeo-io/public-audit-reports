@@ -88,3 +88,4 @@
 | 03/2026 | Flare | V1.13.0 Upgrade | Flare | GO | [Audit Report](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/Flare/FLARE%20Ongoing%202026.02.23.pdf) |  |
 | 3/2026 | Theoriq | TQ Oracle Ongoing | Ethereum | Python | [Audit Report](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/Theoriq/Theoriq%20-%20Ongoing%202026-03-08_final.pdf) |  |
 | 3/2026 | Spree | Spree Ongoing | Solana | Rust | [Audit Report](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/Spree/Spree%20-%20Ongoing%202026-03-10.pdf) |  |
+| 3/2026 | Aureus OX | Time Locked Vault Wrapper | Flare | Solidity | [Audit Report](https://github.com/fyeo-io/public-audit-reports/blob/main/Code%20Audit%20Reports/2026/Aureus%20Ox/Aureus%20Ox%20-%20Ongoing%202026.03.20.pdf) |  |
